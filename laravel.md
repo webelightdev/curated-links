@@ -52,3 +52,7 @@
 
 # Youtube
 - https://www.youtube.com/channel/UCVf4wSlyeBqofT6ZQ8V3FmA
+
+# Performance 
+- https://medium.com/@asked_io/optimizing-laravel-5-mysql-for-9m-rows-step-2-dcf4ceee1876
+- https://www.cloudways.com/blog/laravel-performance-optimization/
