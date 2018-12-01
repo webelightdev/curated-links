@@ -23,6 +23,7 @@
 - https://timacdonald.me/giving-collections-a-voice/
 - https://www.phproundtable.com/episode/php-internals-preloading-ffi-typed-properties-and-more
 - https://github.com/ARCANEDEV/LogViewer
+- https://github.com/rap2hpoutre/laravel-log-viewer *****
 
 # PHP
 - https://github.com/ziadoz/awesome-php
