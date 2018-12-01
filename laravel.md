@@ -22,6 +22,7 @@
 - https://medium.com/@tomgrohl/using-php-traits-for-laravel-eloquent-relationships-7357901a01a4
 - https://timacdonald.me/giving-collections-a-voice/
 - https://www.phproundtable.com/episode/php-internals-preloading-ffi-typed-properties-and-more
+- https://github.com/ARCANEDEV/LogViewer
 
 # PHP
 - https://github.com/ziadoz/awesome-php
