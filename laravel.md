@@ -46,3 +46,6 @@
 
 # Interesting
 - https://medium.com/@aschmelyun/a-few-helpful-gems-tucked-away-in-laravel-eloquent-6a76e7c926e5
+
+# Youtube
+- https://www.youtube.com/channel/UCVf4wSlyeBqofT6ZQ8V3FmA
