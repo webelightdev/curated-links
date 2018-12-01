@@ -24,6 +24,7 @@
 - https://www.phproundtable.com/episode/php-internals-preloading-ffi-typed-properties-and-more
 - https://github.com/ARCANEDEV/LogViewer
 - https://github.com/rap2hpoutre/laravel-log-viewer *****
+- https://medium.com/@jeffochoa/consuming-third-pary-apis-with-laravel-resources-c13a0c7dc945
 
 # PHP
 - https://github.com/ziadoz/awesome-php
