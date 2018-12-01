@@ -15,6 +15,13 @@
 - https://github.com/nunomaduro/laravel-code-analyse
 - https://internetingishard.com
 - https://github.com/tightenco/parental
+- https://www.youtube.com/channel/UCYGmktKAAJWnqGGaH9DcTqw
+- https://github.com/PHLAK/SemVer
+- https://christoph-rumpel.com/2016/11/How-I-refactor-to-collections
+- https://laravel-news.com/json-api-introduction
+- https://medium.com/@tomgrohl/using-php-traits-for-laravel-eloquent-relationships-7357901a01a4
+- https://timacdonald.me/giving-collections-a-voice/
+- https://www.phproundtable.com/episode/php-internals-preloading-ffi-typed-properties-and-more
 
 # PHP
 - https://github.com/ziadoz/awesome-php
