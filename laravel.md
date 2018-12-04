@@ -25,6 +25,12 @@
 - https://github.com/ARCANEDEV/LogViewer
 - https://github.com/rap2hpoutre/laravel-log-viewer *****
 - https://medium.com/@jeffochoa/consuming-third-pary-apis-with-laravel-resources-c13a0c7dc945
+- https://github.com/spatie/laravel-collection-macros
+- https://pineco.de/extendig-laravels-collection-with-macros/
+- https://rachidlaasri.com/php/laravel/macro/2018/04/28/class-based-macros.html
+- https://adamwathan.me/2016/08/04/stubbing-eloquent-relations-for-faster-tests/
+- https://laravel-news.com/array_wrap
+- https://tighten.co/blog/stimulus-101-building-a-modal
 
 # PHP
 - https://github.com/ziadoz/awesome-php
