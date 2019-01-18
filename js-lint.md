@@ -1,13 +1,15 @@
 # Js Lint #
 
 - Install globally as well locally for project `eslint` using npm.
+    - For local `npm install eslint --save-dev`.
+    - For global `npm install -g eslint`.
 - Install related plugin for `eslint` in project directory.
     ```
-        eslint-config-airbnb-base,
-        eslint-plugin-import,
-        eslint-plugin-vue,
-        stylelint,
-        stylelint-config-idiomatic-order
+        - npm i eslint-config-airbnb-base,
+        - npm i eslint-plugin-import,
+        - npm i eslint-plugin-vue,
+        - npm i stylelint,
+        - npm i stylelint-config-idiomatic-order
     ```
 - Update `package.json` with lint.
     ```
