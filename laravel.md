@@ -31,6 +31,13 @@
 - https://adamwathan.me/2016/08/04/stubbing-eloquent-relations-for-faster-tests/
 - https://laravel-news.com/array_wrap
 - https://tighten.co/blog/stimulus-101-building-a-modal
+- https://divinglaravel.com/handling-http-requests-in-laravel
+- https://laracasts.com/series/build-a-laravel-app-with-tdd
+- https://adamwathan.me/2017/01/24/methods-are-affordances-not-abilities/
+- https://www.youtube.com/watch?v=MF0jFKvS4SI&feature=youtu.be
+- https://www.youtube.com/watch?v=DCJJ7rf087Y&feature=youtu.be
+- https://laraveldaily.com/wildcard-subdomain-in-routes-assign-subdomain-for-every-user/
+- https://laracasts.com/series/build-a-laravel-app-with-tdd
 
 # PHP
 - https://github.com/ziadoz/awesome-php
