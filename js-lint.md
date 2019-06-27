@@ -14,13 +14,13 @@
 - Update `package.json` with lint.
     ```
     "scripts": {
-        "lint": "eslint --fix resources/  webpack.mix.js --ext .js,.vue && stylelint resources/sass/**/*.scss resources/sass/*.scss --fix",
-        "lint:ci": "eslint resources/ webpack.mix.js --ext .js,.vue && stylelint resources/sass/**/*.scss resources/sass/*.scss",
-        "lint:js": "eslint --fix resources/ webpack.mix.js --ext .js,.vue",
-        "lint:styles": "stylelint resources/sass/**/*.scss resources/sass/*.scss --fix",
+        "lint": "eslint --fix resources/** tests/Jest/** webpack.mix.js --ext .js,.vue && stylelint resources/assets/sass/**/*.scss resources/assets/sass/*.scss --fix",
+        "lint:ci": "eslint resources/** tests/Jest/** webpack.mix.js --ext .js,.vue && stylelint resources/assets/sass/**/*.scss resources/assets/sass/*.scss",
+        "lint:js": "eslint --fix resources/** tests/Jest/** webpack.mix.js --ext .js,.vue",
+        "lint:styles": "stylelint resources/assets/sass/**/*.scss resources/assets/sass/*.scss --fix"
     }
     ```
-- Now make file in root directory of project with name of `eslintrc.js`.
+- Now make file in root directory of project with name of `.eslintrc.js`.
 - Add below content in this file.
     ```
         module.exports = {
@@ -86,7 +86,7 @@
         },
     }
     ```
-- Now make another file stylelint with name of `stylelintrc.json`.
+- Now make another file stylelint with name of `.stylelintrc.json`.
     ```
     {
         "extends": "stylelint-config-idiomatic-order",
